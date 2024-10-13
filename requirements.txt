@@ -1,5 +1,5 @@
 streamlit
-nltk
+nltk==3.5
 scikit-learn
 stopwords
 punkt
